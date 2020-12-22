@@ -17,4 +17,5 @@ I AM NOT RESPONSIBLE FOR ANY DAMAGE ON YOUR PRINTER
 - Enjoy the futuristic new look ! :)
 
 ## Notice
-I removed the original Chinese Translation-Screens, if someone wants to port the Chinese Screens, feel free to contribute :)
+- I removed the original Chinese Translation-Screens, if someone wants to port the Chinese Screens, feel free to contribute :)
+- I removed the starup melody too because it was inappropriate for this cool machine
