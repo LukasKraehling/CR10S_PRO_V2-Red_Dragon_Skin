@@ -1,6 +1,9 @@
 # CR10S PRO (V2) - Red Dragon Skin/Theme for TinyMachines Firmware DW7/DW6.2
 
-This is a custom made red/black Skin for the Creality CR10S-PRO (V2). I made it because the stock one looked not very modern in my eyes. The Skin is made with a simplistic and minimaltstic approach, but its still based on the stock Skin of the TinyMachines Firmware DW7/DW6.2. If you find design mistakes or typos please consider contributing a pull request, I will react quickly to any contribution.
+This is a custom made red/black Skin for the Creality CR10S-PRO (V2). 
+I made it because the stock one looked not very modern in my eyes. 
+The Skin is made with a simplistic and minimaltstic approach, but its still based on the stock Skin of the TinyMachines Firmware DW7/DW6.2. 
+If you find design flaws or typos please consider contributing a pull request, I will react quickly to any contribution.
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGE ON YOUR PRINTER
 
