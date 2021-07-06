@@ -5,7 +5,7 @@ I made it because the stock one looked not very modern in my eyes.
 The Skin is made with a simplistic and minimalitstic approach, but its still based on the stock Skin of the TinyMachines Firmware DW7.4. 
 If you find design flaws or typos please consider contributing a pull request, I will react quickly to any contribution.
 
-I AM NOT RESPONSIBLE FOR ANY DAMAGE ON YOUR PRINTER
+I AM NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR PRINTER
 
 ## Installation
 - Place the DWIN_SET Folder on a Micro-SD-Card
