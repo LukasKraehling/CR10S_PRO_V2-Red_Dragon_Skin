@@ -2,7 +2,7 @@
 
 This is a custom-made red/black skin for the Creality CR10S-PRO (V2).
 I made it because the stock one looked not very modern in my eyes.
-The skin is made with a simplistic and minimalitstic approach, but it's still based on the stock skin of the TinyMachines Firmware DW7.4.3.
+The skin is made with a simplistic and minimalitstic approach, but it's still based on the stock skin of the TinyMachines Firmware DW7.4.4.
 If you find design flaws or typos please consider contributing a pull request, I will react quickly to any contribution.
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR PRINTER.
